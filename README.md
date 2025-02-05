@@ -59,21 +59,6 @@ Evaluation: Assess model performance using classification metrics
 
 Recommendation System: Provides tailored healthcare suggestions based on model predictions
 
-Installation & Usage
-
-1. Clone the Repository
-
-  git clone https://github.com/your-username/personalized-healthcare.git
-  cd personalized-healthcare
-
-2. Install Dependencies
-
-  pip install -r requirements.txt
-
-3. Run the Script
-
-  python healthcare_model.py
-
 Example Recommendation Output
 
 Personalized Healthcare Recommendation:
@@ -149,21 +134,6 @@ Model Training: Using Random Forest Classifier and Logistic Regression for predi
 Evaluation: Assess model performance using classification metrics
 
 Insights Generation: Identify key factors influencing attrition
-
-Installation & Usage
-
-1. Clone the Repository
-
-  git clone https://github.com/your-username/ibm-hr-analytics.git
-  cd ibm-hr-analytics
-
-2. Install Dependencies
-
-  pip install -r requirements.txt
-
-3. Run the Script
-
-  python hr_analytics_model.py
 
 Example Insights
 
