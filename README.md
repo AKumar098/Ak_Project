@@ -1,6 +1,7 @@
 # Ak_Project
 Data Analytics project developed to provide sustainable solutions for general problems
-Personalized Healthcare Recommendations
+
+**Personalized Healthcare Recommendations**
 
 Project Overview
 
@@ -87,7 +88,11 @@ Enhancing prediction accuracy with Deep Learning models
 
 Deploying as a Web or Mobile Application
 
-IBM HR Analytics: Employee Attrition & Performance
+
+-------------------------------------------------------------------------------------------------------------------------------------
+
+
+**IBM HR Analytics: Employee Attrition & Performance**
 
 Project Overview
 
