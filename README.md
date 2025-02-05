@@ -29,14 +29,6 @@ Model: Random Forest Classifier
 
 Tools: Colab
 
-Project Structure
-
-├── healthcare_data.csv   # Dataset
-├── healthcare_model.py   # Python script for data analysis and ML model
-├── README.md             # Project documentation
-├── requirements.txt      # Dependencies
-└── report.pdf            # Project report (for submission)
-
 Dataset
 
 The dataset includes features like:
@@ -104,14 +96,6 @@ Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 Model: Random Forest Classifier, Logistic Regression
 
 Tools: Colab
-
-Project Structure
-
-├── hr_data.csv             # Dataset
-├── hr_analytics_model.py   # Python script for data analysis and ML model
-├── README.md               # Project documentation
-├── requirements.txt        # Dependencies
-└── report.pdf              # Project report (for submission)
 
 Dataset
 
