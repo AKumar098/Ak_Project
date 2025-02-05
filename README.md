@@ -26,7 +26,7 @@ Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 
 Model: Random Forest Classifier
 
-Tools: Jupyter Notebook, VS Code
+Tools: Colab
 
 Project Structure
 
@@ -86,3 +86,91 @@ Integrating with Electronic Health Records (EHRs)
 Enhancing prediction accuracy with Deep Learning models
 
 Deploying as a Web or Mobile Application
+
+IBM HR Analytics: Employee Attrition & Performance
+
+Project Overview
+
+This project focuses on analyzing employee attrition and performance using machine learning. By leveraging HR data, the model predicts whether an employee is likely to leave and identifies key factors affecting retention and performance.
+
+Features
+
+Data cleaning and preprocessing
+
+Employee attrition prediction using machine learning
+
+Identification of key factors influencing employee retention
+
+Model evaluation using accuracy, precision, recall, and F1-score
+
+Actionable insights for HR decision-making
+
+Technologies Used
+
+Programming Language: Python
+
+Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+
+Model: Random Forest Classifier, Logistic Regression
+
+Tools: Colab
+
+Project Structure
+
+├── hr_data.csv             # Dataset
+├── hr_analytics_model.py   # Python script for data analysis and ML model
+├── README.md               # Project documentation
+├── requirements.txt        # Dependencies
+└── report.pdf              # Project report (for submission)
+
+Dataset
+
+The dataset includes features like:
+
+Employee Demographics: Age, Gender, Education Level
+
+Job Information: Job Role, Department, Years at Company, Salary
+
+Work Environment: Work-life balance, Job Satisfaction, Overtime
+
+Target: Attrition (Yes/No)
+
+How It Works
+
+Data Preprocessing: Handling missing values, encoding categorical variables, scaling features
+
+Model Training: Using Random Forest Classifier and Logistic Regression for predictions
+
+Evaluation: Assess model performance using classification metrics
+
+Insights Generation: Identify key factors influencing attrition
+
+Installation & Usage
+
+1. Clone the Repository
+
+  git clone https://github.com/your-username/ibm-hr-analytics.git
+  cd ibm-hr-analytics
+
+2. Install Dependencies
+
+  pip install -r requirements.txt
+
+3. Run the Script
+
+  python hr_analytics_model.py
+
+Example Insights
+
+Key Findings:
+- High overtime employees have a higher attrition rate.
+- Work-life balance is a critical factor in retention.
+- Employees with low job satisfaction are more likely to leave.
+
+Future Enhancements
+
+Implementing deep learning models for better prediction
+
+Developing an HR dashboard for real-time analytics
+
+Enhancing feature engineering with external labor market data
